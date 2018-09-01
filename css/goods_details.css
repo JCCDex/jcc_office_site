@@ -1,0 +1,51 @@
+.f14464848852 { width:1000px; margin-left:auto; margin-right:auto; overflow:hidden; }
+.f14464848853 { float:left; width:230px; background-color:#E3E2E7; }
+.f14464848854 { float:right; position:absolute; border-top-width:5px; border-top-style:solid; border-top-color:#333; border-left-width:5px; border-left-style:solid; border-left-color:#333; margin-top:-300px; background-color:#fff; margin-left:230px; width:765px; }
+.f14464854883 { text-align:center; }
+.f14464854884 { width:400px; height:400px; }
+.f144648548811 { text-align:left; padding:20px; }
+.f144648548812 { height:30px; line-height:30px; background:#f4f4f4; padding-left:20px; padding-right:20px; border-bottom-color:#ddd; border-bottom-style:solid; border-bottom-width:1px; position:relative; }
+.f144648548813 { padding-top:5px; padding-bottom:5px; padding-left:5px; padding-bottom:5px; }
+.f14464854887 { line-height:30px; }
+.d1446484 { background-image:url(../images/1447251697_background.png); background-repeat:repeat-y; }
+.f14464854881 { }
+.f14464854885{ font-size:14px; margin-bottom:10px; text-align:center;  }
+.f14464545151{ text-align:center; }
+.f14464854882 { width:500px; float:left; padding-left:30px; }
+.f144648548813 { text-align:left; color:#555555; font-size:14px; line-height:28px; margin-bottom:30px; }
+.goods_attr dl { margin-bottom:10px; clear:both; overflow:hidden; }
+.goods_attr dl dt { width:60px; float:left; text-align:right; height: 32px; line-height: 32px; margin-right:30px; }
+.goods_attr dl dd { float:left; }
+.goods_attr dl dd.ddprice { color:#ee1a26; font-size:24px; font-weight:bold; line-height:32px; }
+.goods_attr dl dd label { float: left; margin-right: 10px; font-weight: normal; height: 28px; line-height: 28px; padding: 0 8px; cursor: pointer; border: 2px solid #ddd; }
+.goods_attr dl dd label.on { border: 2px solid #ee1a26; }
+.specifications_radio { display: none; }
+.f14729874922 { width:400px; height:465px; position:relative; float:left; }
+.f14729874926 { position:relative; height:52px; margin-top:1px; padding-top:5px; padding-bottom:5px; padding-left:5px; padding-right:5px; width:390px; overflow:hidden; float:left; }
+.f14729874927 { width:20px; height:50px; line-height:40px; overflow:hidden; position:relative; float:left; cursor:pointer; font-size:26px; font-weight:bold; }
+.f147298749214 { width:20px; height:50px; line-height:40px; overflow:hidden; position:relative; float:right; cursor:pointer; font-size:26px; font-weight:bold; }
+.f14729874928 { height:50px; width:350px; overflow:hidden; margin-left:0px; float:left; }
+.f147298749210 { height:50px; width:60px; overflow:hidden; float:left; text-align:center; }
+.f147298749212 { height:50px; width:60px; overflow:hidden; float:left; text-align:center; }
+.f147298749211, .f147298749213 { width:44px; height:44px; cursor:pointer; border:2px solid #fff; }
+.f147298749211.on, .f147298749213.on { border:2px solid #b1191a; }
+.f14729874923 { position:relative; float:left; width:400px; height:400px; overflow:hidden; }
+.f14729874924 { width:400px; height:400px; }
+.f14729874925 { width:235px; height:210px; position:absolute; cursor:crosshair; filter:alpha(opacity=15); -moz-opacity:0.15; opacity:0.15; background-color:#000; }
+.f147298749215 { position:absolute; overflow: hidden; z-index:999; }
+.f147298749216 { position:absolute; }
+.f147298749217 { clear:both; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #ddd; border-right-color: #ddd; border-bottom-color: #ddd; border-left-color: #ddd; text-align:left; }
+.f147298749218 { height:40px; line-height:40px; background:#f4f4f4; padding-left:20px; padding-right:20px; border-bottom-color:#dfdfdf; border-bottom-style:solid; border-bottom-width:1px; position:relative; }
+.f147298749219 { float:left; position:absolute; left:20px; top:-1px; height:32px; }
+.f147298749220 { float:left; padding-left:15px; padding-right:15px; cursor:pointer; }
+.f147298749220.on { height:38px; color:#B10000; font-weight:bold; border-top: 2px solid #B00000; background-color:#fff; border-right-width: 1px; border-bottom-width: 2px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: #ddd; border-bottom-color: #fff; border-left-color: #ddd; }
+.f147298749222 { padding-top:5px; padding-bottom:5px; padding-left:5px; padding-bottom:5px; }
+.goods_name { padding-bottom:20px; line-height: 22px; font-size: 16px; font-weight: 700; color: #000; font-family: "microsoft yahei"; }
+.fcs_panel { background-color: #E9E9E9; background-repeat: no-repeat; position: relative; left: 0px; z-index: 10; font: 12px/1.5 "Microsoft Yahei", tahoma, arial; padding-bottom: 10px; padding-top: 10px; margin-right: 20px; }
+.goods_btn { margin-top:40px; }
+.goods_btn .buynowa { margin-right: 0px; float: left; overflow: hidden; position: relative; width: 178px; height: 38px; margin-right:30px; line-height: 38px; background-color: #FFEDED; border: 1px solid #C40000; color: #C40000; font-family: "Microsoft Yahei"; font-size: 16px; text-align: center; }
+.goods_btn .addcarda { margin-right: 0px; float: left; overflow: hidden; position: relative; width: 178px; height: 38px; line-height: 38px; background-color: #C40000; border: 1px solid #C40000; color: #fff; font-family: "Microsoft Yahei"; font-size: 16px; text-align: center; }
+.dlnumber dd a { display: block; float: left; width: 26px; height: 26px; border: 1px solid #CCC; line-height: 26px; padding: 0px; vertical-align: top; text-align: center; background-color: #EDEDED; overflow: hidden; }
+.dlnumber dd input { float: left; margin: 0px; padding: 0px; width: 48px; height: 26px; font-size: 16px; line-height: 26px; text-align: center; color: #666; border:0px; border-top: 1px solid #CCC; border-bottom: 1px solid #CCC; outline: 0px none; background: #FFF none repeat scroll 0% 0%; ime-mode: disabled; }
+.dlnumber dd .ddinventory { color: #878787; float:left; margin-left: 1.2em; height:26px; line-height:26px; }
+.dlnumber dd .ddinventory i { margin-left:2px; margin-right:2px; }

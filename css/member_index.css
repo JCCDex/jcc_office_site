@@ -1,0 +1,14 @@
+.member_main .member_right { float:right; background:#fff; width:890px; padding:20px 30px 50px 30px; }
+.member_main .member_right .title h3 { float:left; padding:0 5px; border-bottom:2px solid red; line-height:30px; }
+.member_main .member_right .title { height:30px; border-bottom:1px solid #CCC; width:100%; margin-bottom:20px; }
+.member_main .member_right .title span { font-size:16px; line-height:30px; padding:0 10px; border-bottom:1px solid #c81623 }
+.member_main .member_right .body p { height:35px; line-height:35px; color:#555555; font-size:12px; }
+.member_main .member_right .body p a { color:#3a63c2; text-decoration:blink; }
+.member_main .member_right .body p span { color:#c81623 }
+.member_main .member_right .data { margin-top:30px; }
+.member_main .member_right .data p { font-size:16px; color:#555555; height:40px; line-height:40px; }
+.member_main .member_right .data table { margin-bottom:15px; width:100%; background:#dcdcdc; border-top:1px solid #ec5051 }
+.member_main .member_right .data table th { background:#efefef; height:40px; text-align:center }
+.member_main .member_right .data table td { background:#fff; height:40px; text-align:center; }
+.member_main .member_right .data table td.price { color:#ec5051 }
+.member_main .member_right .data table td.info a { color:#617ecb }

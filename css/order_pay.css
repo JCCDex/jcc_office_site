@@ -1,0 +1,26 @@
+/*成功支付*/
+.suc-payment{width:978px; margin-top:10px; margin-bottom:20px; border:1px solid #dcdddd;background-color:#f7ffef;}
+.suc-check{display:block;width:287px;height:374px;background:url(../images/order/check2.png) no-repeat right 100px;float:left;}
+.suc-info{float:left;padding-top:90px;padding-left:24px;}
+.info-1{font-size:36px;color:#429803;height:64px;line-height:64px;}
+.info-2{font-size:18px;color:#595757;height:36px;line-height:36px;}
+.info-2 i{color:#c9033b;}
+.info-2 span{margin-left:58px;}
+.info-3{padding-top:20px;font-size:18px;color:#595757;height:36px;line-height:36px;}
+.info-3 a{color:#005ea7;margin-right:20px;}
+.info-3 a:hover{text-decoration:underline;}
+
+/*支付页面*/
+.payment_list ul { background:#f7ffef; padding:50px 100px; margin-bottom:20px; }
+.payment_list ul li.title{ font-size:21px; margin-bottom:20px; }
+.payment_list ul li {  font-size:15px;  }
+.payment_list ul li .num{ color:#c9033b; }
+.payment_list ul li .details{ margin-left:50px; }
+.payment_list ul li.horizontal{ border-bottom:1px dashed #dcdddd; height:20px; width:100%; margin-bottom:20px; }
+.payment_list ul li.cancel{ font-size:12px; }
+.payment_list .submitted{ position:absolute; margin-top:50px; margin-left:40px; }
+.payment_list ul li .num a{ color:#c9033b; }
+
+
+
+

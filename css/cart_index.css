@@ -1,0 +1,55 @@
+/*我的购物车*/
+.currents { float:left; margin-top:28px; height:46px; line-height:46px; font-size:22px; color:#626262; padding-left:10px; }
+.progress-bar { position:relative; padding-top:40px; float:right; }
+.cart-bg1 { width:576px; height:26px; background:url(../images/order/pro-bar_01.png) no-repeat 0 1px; position:absolute; right:0; top:40px; z-index:-1; }
+.cart-bg2 { background-position:0 -24px; }
+.cart-bg3 { background-position:0 -49px; }
+.cart-bg4 { background-position:0 -74px; }
+.progress-bar dl { float:left; width:144px; text-align:center; font:14px/24px "宋体"; color:#000; }
+.progress-bar dl dt { font-weight:bold; }
+.progress-bar dl dt.on { color:#fff; }
+.cart-main { width:980px; margin:0 auto; position:relative; }
+.cart-all { position:absolute; top:20px; left:0; height:40px; border-bottom:2px solid #c9033b; line-height:40px; font-size:18px; width:78px; font-weight:bold; color:#c9033b; }
+.cart-thead { width:978px; height:38px; border:1px solid #e7e6e6; background-color:#f3f3f3; color:#474747; font:12px/38px "宋体"; }
+.t-checkbox { margin-left:10px; width:124px; float:left; }
+.t-checkbox input { margin-right:10px; vertical-align:top; margin-top:13px; *vertical-align:middle;
+*margin-top:0;
+}
+.t-checkbox span { margin-right:10px; vertical-align:top; margin-top:13px; }
+.t-goods { float:left; width:200px; margin-right:120px; text-align:left; }
+.t-goods1 { margin-right:20px; }
+.t-price { float:left; width:120px; text-align:center; }
+.t-quantity { float:left; width:78px; text-align:center; margin:0 35px; }
+.t-sum { float:left; width:140px; text-align:center; }
+.t-action { float:left; width:110px; text-align:left; }
+.t-action2 { width:200px; }
+.t-pro { display:inline-block; width:82px; }
+.column { width:978px; height:82px; border:1px solid #eae9e9; padding:17px 0; background-color:#f8f8f8; color:#474747; margin-top:15px; font-family:"宋体"; }
+.bgcolor { background-color:#fcefdd; }
+.t-goods a { color:#474747; line-height:24px; display:block; height:48px; overflow:hidden; }
+.t-goods p { color:#909090; line-height:24px; }
+.t-quantity .t-q span { display:block; width:17px; height:22px; line-height:22px; border:1px solid #e5e5e5; color:#444; background-color:#f0f0f0; float:left; text-align:center; cursor:pointer; }
+.t-quantity .t-q input { float:left; width:38px; height:22px; line-height:22px; border:1px solid #aaa; background-color:#fff; color:#000; vertical-align:middle; text-align:center; }
+.t-action a { display:block; color:#474747; line-height:24px; }
+.t-action a:hover { color:#b71d1d; }
+.column .t-price, .column .t-sum { line-height:24px; }
+.options-box { width:980px; height:48px; background-color:#e5e5e5; color:#474747; font:12px/48px "宋体"; margin-top:15px; }
+.options-box input { margin-top:18px; *margin-top:15px;
+margin-right:23px; margin-left:10px; float:left; }
+.options-box label { float:left; }
+.o-action { float:left; }
+.o-action a { margin-left:28px; color:#4a4a4a; }
+.o-action a:hover { color:#b71d1d; }
+.o-count { float:right; height:44px; }
+.o-count p { float:right; }
+.o-count p.p1 { margin-right:30px; }
+.o-count p.p1 b { color:#fe8900; margin:0 5px; }
+.o-count p.p2 b { color:#f2020d; font-size:18px; font-family:"微软雅黑"; margin-right:28px; line-height:28px; }
+.o-count a { float:right; display:block; width:96px; height:48px; text-align:center; color:#fff; font:18px/48px "微软雅黑"; font-weight:bold; background-color:#c40000; }
+.o-count a:hover { background-color:#e60505; transition:all 0.5s ease-in-out; -moz-transition:all 0.5s ease-in-out; -webkit-transition:all 0.5s ease-in-out; -ms-transition:all 0.5s ease-in-out; }
+.o-count .submit { background-color: #c40000; border: 0 none; color: #fff; display: block; float: right; font: bold 18px/48px "微软雅黑"; height: 48px; margin: 0; text-align: center; width: 96px; }
+.o-count .submit:hover { background-color:#e60505; transition:all 0.5s ease-in-out; -moz-transition:all 0.5s ease-in-out; -webkit-transition:all 0.5s ease-in-out; -ms-transition:all 0.5s ease-in-out; }
+.header-box2 { width: 980px; margin-left:auto; margin-right:auto; overflow:hidden; position:relative; }
+.cart_empty { padding:10px 30px; ; }
+.cart_empty em { width:36px; height:32px; background:url(../images/icon-p.png) no-repeat -72px 0; }
+.cart_pad { padding-top:60px; }

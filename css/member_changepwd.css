@@ -1,0 +1,28 @@
+.member_main .update { width:530px; margin:0 auto; margin-top:35px; }
+.member_main .update .top { width:100%; height:40px; }
+.member_main .update .top li { width:220px; float:left; margin-left:5px; color:#b9b9b9; border-bottom:2px solid #b9b9b9; text-align:center; height:40px; line-height:40px; position:relative }
+.member_main .update .top li.now { color:#ee1a26; border-bottom:2px solid #ee1a26; }
+.member_main .update .top li span { position:absolute; width:7px; height:7px; display:block; background:#b9b9b9; border-radius:4px; bottom:-4px; left:50%; margin-left:-4px; }
+.member_main .update .top li.now span { background:#ee1a26 }
+.member_main .update .form { margin-top:60px; }
+.member_main .update .form label { display:block; margin-bottom:30px; height:40px; }
+.member_main .update .form label span { float:left; width:95px; color:#8d8e92; text-align:right; height:40px; line-height:40px; margin-right:10px; }
+.member_main .update .form label .text { float:left; }
+.member_main .update .form label .text input { width:290px; height:40px; line-height:40px; border:1px solid #d4d4d4; color:#999; padding:0 10px; }
+.member_main .update .form label .sms { width:120px; height:40px; float:left; border:1px solid #d4d4d4; padding-left:10px; color:#d4d4d4 }
+.member_main .update .form label .submit { width:140px; height:40px; float:left; background:#ee1a26; color:#fff; font-size:16px; line-height:40px; border:0; text-align:center; border-radius:3px; }
+.member_main .update .form label .reset { width:140px; height:40px; float:left; background:#fff; border:1px solid #ddd; color:#343434; margin-left:27px; font-size:16px; line-height:40px; text-align:center; border-radius:3px; }
+.member_main .form .img { width:80px; height:80px; margin:0 auto; }
+.member_main .form .img img { width:100%; }
+.member_main .form p { text-align:center; color:#555555; font-size:16px; position:relative; }
+.member_main .form p.big { font-weight:bold; width:100%; text-align:center; line-height:60px; height:60px; font-size:30px; }
+.member_main .form a { margin:15px auto; width:100px; height:45px; display:block; text-align:center; line-height:45px; color:#fff; background:#ee1a26; font-size:18px; }
+.member_main .update .form label a { margin: 0; height:40px; line-height:40px; margin-left:14px; float:left; background:#d4d4d4 !important; color:#FFF !important; }
+.member_main .update .form label i { height:40px; line-height:40px; }
+.member_main .update .form label .text .check { padding-top:8px; padding-bottom:8px; position:absolute; }
+.member_main .update .form label .text i.error { background:url(../images/reg2.jpg); height:16px; width:16px; display:block; float:left; }
+.member_main .update .form label .text i.prompt{ background:url(../images/reg3.png); height:16px; width:16px; display:block; float:left; }
+.member_main .update .form label .text input.on { border:1px solid #7ABD54; }
+.member_main .update .form label .text input.error { border:1px solid #f00; }
+.member_main .update .form label .text p i.succeed { background:url(../images/reg1.jpg); height:16px; width:16px; display:block; float:left; position:absolute; right:10px; top:12px; display:none; }
+.pwdsuccess{ display:none; }

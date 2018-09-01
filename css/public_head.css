@@ -1,0 +1,37 @@
+@charset "utf-8";
+/******************************************************
+
+ 功能：主样式表
+ 
+ ******************************************************/
+
+/* 全局背景、字体、字号、颜色、行高、页边距等 */
+html { -webkit-text-size-adjust: none; }
+* { margin:0px; padding:0px; }
+body { margin:0px; padding:0px; font-size:12px; color:#000; font-family:tahoma, arial, 微软雅黑, 宋体, sans-serif; }
+/* CSS3盒子模型 */
+ul, li, dl, dt, dd, ol, h1, h2, h3, h4, h5, h6, p { list-style-type:none; margin:0; padding:0; display:block; }
+em, i { font-style:normal; }
+em { display:inline-block; vertical-align:middle; }
+fieldset { border:none; margin:0; padding:0; }
+input, select, textarea { font-family:Arial, Helvetica, sans-serif; margin:0; padding:0; }
+/* 公共匹配样式 */
+* { outline:none; }
+a, img { border:none; }
+img { border:none; vertical-align:middle; }
+/* 链接 */
+a { text-decoration:none; color:#333; }
+a:hover { color:#333; text-decoration:none; }
+a:visited { text-decoration:none; color:#7d7d7e; }
+a:active { text-decoration:none; color:#333; }
+input[type=button], input[type=reset], input[type=submit] { cursor:pointer; -webkit-appearance: none; }
+.g00003 { float:left; width:220px; }
+.g00004 { float:right; overflow:hidden; width:760px; }
+.g00005 { border-top:3px solid #b1191a; clear:both; overflow:hidden; }
+.g00002 { overflow:hidden; width:1000px; margin-left:auto; margin-right:auto; }
+.g00001 { background:url(../images/topbg.jpg) no-repeat; background-position:center; height:95px; border-top:6px solid #399c55; border-bottom:1px solid #399c55; overflow:hidden; }
+.g000013 { float:left; width:220px; }
+.g000014 { overflow:hidden; float:right; width:765px; }
+/*ajax框*/
+.msg_show { color:#FFFFFF; font-weight:bold; position:absolute; z-index:9999; overflow:auto; font-size:16px; width:360px; height:35px; text-align:center; padding-top:15px; background-color:#ff4400; border:3px solid #CCCCCC; display:none; overflow:hidden; }
+.hide { display: none; }

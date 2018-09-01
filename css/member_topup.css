@@ -1,0 +1,13 @@
+.topup .topupdiv.hr { border-bottom:1px solid #ccc; padding-bottom:50px; margin-bottom:50px; color:#c9033b; font-size:14px; }
+.topup .topupdiv.hr a{ font-size:12px; color:#3a63c2; margin-left:30px; }
+.topup .topupdiv span { float: left; width: 95px; color: #8d8e92; display:block; text-align: right; height: 40px; line-height: 40px; margin-right: 10px; }
+.topup .topupdiv .text { float: left; }
+.topup .topupdiv .text p { text-align: center; color: #555555; font-size: 16px; position: relative; }
+.topup .topupdiv { display: block; margin-bottom: 30px; height: 40px; }
+.topup .topupdiv .submit { background:#e93034; display:block; width:240px; height:40px; line-height:40px; text-align:center; margin-left:76px; border:0; color:#fff; border-radius:10px; }
+.topup .topupdiv .text input { width: 80px; height: 40px; line-height: 40px; border: 1px solid #d4d4d4; color: #999; padding: 0 10px; font-size:14px; }
+.topup .topupdiv .text p .price { color:#c81623; font-size:20px; line-height:40px; height:40px; }
+.topup .topupdiv .text .check { padding-top:8px; padding-bottom:8px; position:absolute; }
+.topup .topupdiv .text .pay{ height:30px; float:left; }
+.topup .method .text label{ float:left; margin-right:30px; }
+.topup .method .text input{ width:20px; float:left; }

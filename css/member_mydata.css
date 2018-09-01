@@ -1,0 +1,14 @@
+.mydata dl{height: 35px;
+line-height: 35px; margin-top:20px; 
+color: #555555; clear:both;
+font-size: 12px;}
+.mydata dl dt{ width:100px; float:left; }
+.mydata dl dd{ width:200px; float:left; }
+.mydata dl dd input.text{ height:30px; line-height:30px; padding:0 5px; border:1px solid #d8d6d6; width:220px; }
+.mydata dl dd label{ margin-right:15px; }
+.mydata dl dd .submit{width: 180px;
+height: 40px;
+background: #ee1a26;
+border: 0;
+color: #fff;
+border-radius: 3px;}

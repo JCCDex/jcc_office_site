@@ -1,0 +1,122 @@
+	ul{
+		padding: 0;
+		margin: 0;
+
+	}
+li{
+	list-style: none;
+}
+a{
+text-decoration: none;
+}
+	.head{
+		width: 100%;
+		height: auto;
+		text-align: center;
+		margin: 10px auto; 
+	}
+	.head img{
+		width: 100px;
+		height: auto;
+
+	}
+	.navigation{
+		width: 95%;
+		height: auto;
+		margin: 25px auto;
+
+	}
+	.navli{
+			display: inline-block;
+			    margin: 0 2.5%;
+			text-align: center;
+	}
+
+	.active span{
+		color: #5769f9;
+	}
+	.all{
+		height: 557px;
+	}
+
+	.div_content{
+	height: 100%;
+	text-align: center;
+
+
+	}
+
+	.home_text{
+		width: auto;
+		display: inline-block;
+		padding: 40px 0 0 0;
+	}
+	.home_text span{
+		font-size: 25px;
+	}
+.home_text a{
+margin-top:-13px ;
+display: block;
+background-color: #b2d7ff;
+height: 10px;
+width: 100%;
+}
+.web_intro{
+	margin-top:50px;
+	font-size: 15px;
+	font-family:”微软雅黑”
+
+	}
+
+
+	.web_img{
+		height: auto;
+		margin:70px auto 0 auto;
+	}
+	.web_img img{
+		width: 60%;
+		height: auto;
+	}
+	.tong_intro{
+		padding-top:40px;
+	}
+	.tong_intro img{
+		width: 40px;
+		margin:-10px 0 0 -5px;
+	}
+	.tong_intro span{
+		font-size: 25px;
+	}
+	.tong_sub{
+		display: inline-block;
+		background:#f7557d;
+		border-radius: 15px;
+		padding: 5px 20px;
+		color: #fff;
+		font-size: 15px;
+		margin-top:25px;
+	}
+.tong_son{
+	margin-top: 50px;
+}
+		.tong_son img{
+		width: 25px;
+	}
+.tong_son a{
+font-size: 20px;
+display: inline-block;
+margin-left: -180px;
+}
+.tong_son p{
+	font-size: 12px;
+	width: 70%;
+	text-align: left;
+	display: inline-block;
+	margin:10px 0 0 40px;
+
+}
+
+.tong_son li{
+	margin:10px auto ;
+}
+

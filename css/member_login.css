@@ -1,0 +1,15 @@
+.login { width:100%; min-height:480px; background:url(../images/reg/login_bg.png) top center no-repeat; }
+.login .content { width:1200px; margin:0 auto }
+.login .form { width:330px; height:300px; background:#FFF; padding:20px; float:right; margin-right:75px; margin-top:50px; }
+.login .form label { display:block; float:none; height:50px; margin-top:10px; width:100%; }
+.login .form label.input {  }
+.login .form label.input span { float:left; width:60px; height:40px; line-height:40px; float:left; font-size:14px; text-align:right; margin-right:15px; }
+.login .form label.input input { float:left; width:220px; padding:0px 10px; height:38px; line-height:38px; text-align:left; color:#999; border:1px solid #dddddd; }
+.login .form label.input input.on{ border:1px solid #7ABD54; }
+.login .form label.input input.error { border:1px solid #f00; }
+.login .form label .submit { background:#e93034; display:block; width:240px; height:40px; line-height:40px; text-align:center; margin-left:76px; border:0; color:#fff; border-radius:10px; }
+.login .form label a.find_password { color:#ee1a26; float:left }
+.login .form label a.login_register { color:#ee1a26; float:right }
+.login .form i.error { background:url(../images/reg2.jpg); height:16px; width:16px; display:block; float:left; }
+.login .form i.prompt{ background:url(../images/reg3.png); height:16px; width:16px; display:block; float:left; }
+.login .form .check { padding-top:8px; height:17px; padding-left:80px; }

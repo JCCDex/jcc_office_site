@@ -1,0 +1,31 @@
+.reg_content form label { width:100%; height:75px; display:block; }
+.reg_content form label span { width:450px; text-align:right; font-size:14px; line-height:40px; color:#555555; font-size:14px; float:left; margin-right:15px; }
+.reg_content form label .text { float:left; }
+.reg_content form label .text p { padding:0; position:relative; }
+.reg_content form label .text p i.succeed { background:url(../images/reg1.jpg); height:16px; width:16px; display:block; float:left; position:absolute; right:10px; top:12px; display:none; }
+.reg_content form label .text p i.succeed.sms_i{ right:95px; }
+.reg_content form label .text i.error { background:url(../images/reg2.jpg); height:16px; width:16px; display:block; float:left; }
+.reg_content form label .text i.prompt{ background:url(../images/reg3.png); height:16px; width:16px; display:block; float:left; }
+.teltext { display:none; line-height:44px; padding-left:10px; color:#ee1a26; }
+.reg_content form label .text .check { padding-top:8px; padding-bottom:8px; position:absolute; }
+.reg_content form label .text p i.tel86 { height:42px; font-size:14px; width:65px; background:#ededed; float:left; text-align:center; line-height:42px; color:#65666b }
+.reg_content form label .text p input { background:#FFF; color:#a2a2a2; padding:0 10px; width:220px; height:40px; border:1px solid #dedede; }
+.reg_content form label .text p input.on { border:1px solid #7ABD54; }
+.reg_content form label .text p input.error { border:1px solid #f00; }
+.reg_content form label p input.sms { width:120px; height:40px; line-height:40px; padding:0 10px; border:1px solid #dedede }
+.reg_content form label p .send_sms { border:none; margin-left:10px; padding-left:10px; padding-right:10px; height:42px; display:inline-table; text-align:center; line-height:42px; color:#555; background:#ebebeb; }
+.reg_content form label p .send_sms.on { color:#bbb; }
+.reg_content form label .submit { width:230px; height:40px; margin-left:460px; background:#ee1a26; border:0; color:#fff; border-radius:3px; }
+.reg_content .contet_text { width:488px; height:250px; margin:0 auto; }
+.reg_content .contet_text .left { float:left; height:100%; width:100px; }
+.reg_content .contet_text .left span { float:right; border:5px solid #90b71b; width:62px; height:62px; text-align:center; line-height:62px; color:#90b71b; border-radius:35px; font-size:35px; margin-right:15px; }
+.reg_content .contet_text .right { float:left }
+.reg_content .contet_text .right span { display:block; margin:5px 0; color:#999999 }
+.reg_content .contet_text .right a { width:180px; height:45px; background:#ee1a26; color:#FFF; text-align:center; line-height:45px; display:block; margin-top:15px; }
+.green { color:#06922e; }
+.red { color:#f40a20; }
+.grey { color:#999; }
+
+#capslock { display: none; position: absolute; top:-28px; left: 0; z-index: 6; width: 248px; background-color: #FFFDEE; height: 30px; line-height: 30px; border: 1px solid #EDD288; color: #F60; padding: 0px 10px; width:250px; }
+#capslock i { background: transparent url(../images/tip-cue.png) no-repeat scroll center center; display: inline-block; height: 30px; width: 20px; vertical-align: middle; }
+#capslock s { position: absolute; background: transparent url(../images/tip-arrow.png) no-repeat scroll center center; height: 12px; width: 18px; bottom: -10px; left: 38px; }
